@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: fca1f842ccb773a4f8ab18209a033c5a
+timeCreated: 1559628417
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: HQ9_missile01
+    100002: HQ9_missile02
+    100004: HQ9_missile03
+    100006: HQ9_missile04
+    100008: "\u53D1\u5C04\u7B52\u76D6"
+    100010: //RootNode
+    100012: "\u7EA2\u65D79\u4F38\u7F29\u67B6"
+    100014: "\u7EA2\u65D79\u53D1\u5C04\u7B52"
+    100016: "\u7EA2\u65D79\u8F66\u8EAB"
+    100018: "\u7EA2\u65D79\u8F66\u8F6E"
+    400000: HQ9_missile01
+    400002: HQ9_missile02
+    400004: HQ9_missile03
+    400006: HQ9_missile04
+    400008: "\u53D1\u5C04\u7B52\u76D6"
+    400010: //RootNode
+    400012: "\u7EA2\u65D79\u4F38\u7F29\u67B6"
+    400014: "\u7EA2\u65D79\u53D1\u5C04\u7B52"
+    400016: "\u7EA2\u65D79\u8F66\u8EAB"
+    400018: "\u7EA2\u65D79\u8F66\u8F6E"
+    2300000: HQ9_missile01
+    2300002: HQ9_missile02
+    2300004: HQ9_missile03
+    2300006: HQ9_missile04
+    2300008: "\u53D1\u5C04\u7B52\u76D6"
+    2300010: "\u7EA2\u65D79\u4F38\u7F29\u67B6"
+    2300012: "\u7EA2\u65D79\u53D1\u5C04\u7B52"
+    2300014: "\u7EA2\u65D79\u8F66\u8EAB"
+    2300016: "\u7EA2\u65D79\u8F66\u8F6E"
+    3300000: HQ9_missile01
+    3300002: HQ9_missile02
+    3300004: HQ9_missile03
+    3300006: HQ9_missile04
+    3300008: "\u53D1\u5C04\u7B52\u76D6"
+    3300010: "\u7EA2\u65D79\u4F38\u7F29\u67B6"
+    3300012: "\u7EA2\u65D79\u53D1\u5C04\u7B52"
+    3300014: "\u7EA2\u65D79\u8F66\u8EAB"
+    3300016: "\u7EA2\u65D79\u8F66\u8F6E"
+    4300000: "\u7EA2\u65D79\u8F66\u8F6E"
+    4300002: "\u7EA2\u65D79\u4F38\u7F29\u67B6"
+    4300004: "\u7EA2\u65D79\u53D1\u5C04\u7B52"
+    4300006: HQ9_missile01
+    4300008: HQ9_missile02
+    4300010: HQ9_missile03
+    4300012: HQ9_missile04
+    4300014: "\u7EA2\u65D79\u8F66\u8EAB"
+    4300016: "\u53D1\u5C04\u7B52\u76D6"
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColormapGloss_
+    second: {fileID: 2100000, guid: 36abf22e3a4d9114e8e1147827366985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body2
+    second: {fileID: 2100000, guid: 818a36925c7fea148a1b5fa2908bc23f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
